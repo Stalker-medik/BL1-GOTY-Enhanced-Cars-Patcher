@@ -1,0 +1,6 @@
+\WillowGame\CookedPC\DLC3\Maps\dlc3_circle_p.umap
+\WillowGame\CookedPC\DLC3\Maps\dlc3_lakebed_p.umap
+\WillowGame\CookedPC\DLC3\Maps\dlc3_NLanceStrip_p.umap
+\WillowGame\CookedPC\DLC3\Maps\dlc3_SLanceStrip_p.umap
+\WillowGame\CookedPC\DLC3\Maps\dlc3_southlake_p.umap
+\WillowGame\CookedPC\Maps\Interlude_1\Interlude_1_P.umap
